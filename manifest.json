@@ -1,6 +1,6 @@
 {
-  "name": "SpondyLogTest",
-  "short_name": "SpondyLogTest",
+  "name": "SpondyLog",
+  "short_name": "SpondyLog",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#f9f9f9",
